@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #d182ff; /* 背景色をここで指定 */
+  background-size: cover; /* 画像をカバーするように調整 */
+  background-position: center; /* 画像を中央に配置 */
+}
+
+div {
+  text-align: center;
+}
